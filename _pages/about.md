@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a political scientist focused on poverty and inequality, currently working as an Assistant Professor at the University of Oklahoma. I received my PhD in Political Science from University of California, San Diego in December 2017.
+I am a political scientist focused on American politics and inequality, currently working as an Assistant Professor at the University of Oklahoma. I received my PhD in Political Science from University of California, San Diego in December 2017.
 
-I use new computational methods such as automated text analysis to study the political causes and consequences of economic, racial, and gender inequality. My primary research area examines how rising inequality has polarized American voters along the line of social identities. I also study the political causes of racial, gender, and housing inequality. I am broadly interested in American politics, political behavior, politics of inequality, race and ethnicity politics, voting rights, urban segregation, political communication, and computational social science.
+My primary research area examines how economic inequality has increased the salience of racial identity, how the housing rental market perpetuates residential segregation, and how state governments propagate racial and economic inequality through policy. I use computational methods, such as automated text analysis and machine learning, experiments, and causal inference methods for observational data to study these topics. I am broadly interested in American politics, political behavior, politics of inequality, race and ethnicity politics, voting rights, urban segregation, political communication, and computational social science.
 
 I am dedicated to understanding the consequences of American inequality and using political science to better inform solutions.
 
